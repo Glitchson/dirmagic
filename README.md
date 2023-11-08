@@ -11,10 +11,9 @@ The module contains a class `Path` which contains various functionalities for wo
 * Get the home directory.
 <p>
     The class Path contains a static method , <span><code>Path.home</code><span> that returns the home directory.
-    <pre><code>
-        ```python
-        from dirmagic import Path
-        home_directory=Path.home()
+    <pre>```python
+from dirmagic import Path
+home_directory=Path.home()
         ```
-    </code></pre>
+    </pre>
 </p>
