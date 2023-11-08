@@ -13,7 +13,7 @@ The module contains a class `Path` which contains various functionalities for wo
     The <span style="font-weight: bold; color: yellow;">Path</span> class contains a static method that returns the home directory.
     <div class="code">
         <pre><p>
-            <span class="kw">from</span> <span class="cls">dirmagic</span> <span class="kw">import </span> <span class="cls">Path</span>
+            <pre><span class="kw">from</span></pre> <span class="cls">dirmagic</span> <span class="kw">import </span> <span class="cls">Path</span>
         </p></pre>    
     </div> 
 </div>
