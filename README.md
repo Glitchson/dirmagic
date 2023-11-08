@@ -9,11 +9,11 @@
 The module contains a class `Path` which contains various functionalities for working with paths. It leverages python `magic` or `dunder`methods to make working with paths more intuitive and make the syntax minimal. The does the following:
 
 1. Get the home directory.
-<div>
+<div >
     The <span style="font-weight: bold; color: yellow;">Path</span> class contains a static method that returns the home directory.
     <div class="code">
-        <p>
+        <pre><p>
             <span class="kw">from</span> <span class="cls">dirmagic</span> <span class="kw">import </span> <span class="cls">Path</span>
-        </p>    
+        </p></pre>    
     </div> 
 </div>
